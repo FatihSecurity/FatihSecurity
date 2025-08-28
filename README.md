@@ -12,6 +12,7 @@
 
 ## Badges
 
+![Helper](https://img.shields.io/badge/Helper-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Professional Hacker](https://img.shields.io/badge/Professional_Hacker-008000?style=for-the-badge&logoColor=white)
 ![Hacker](https://img.shields.io/badge/Hacker-32CD32?style=for-the-badge&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-008000?style=for-the-badge&logo=linux&logoColor=white)

@@ -1,5 +1,6 @@
 # Expertise 🏆
 
+![Helper](https://img.shields.io/badge/Helper-00FF00?style=for-the-badge&logo=github&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8800?style=for-the-badge&logo=burp-suite&logoColor=white)

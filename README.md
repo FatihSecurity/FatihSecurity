@@ -6,3 +6,4 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6600?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-000000?style=for-the-badge&logo=protonvpn&logoColor=2f9e44)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=green)

@@ -10,5 +10,3 @@
 ![NordVPN](https://img.shields.io/badge/NordVPN-000000?style=for-the-badge&logo=nordvpn&logoColor=00c1d4)
 ![ExpressVPN](https://img.shields.io/badge/ExpressVPN-000000?style=for-the-badge&logo=expressvpn&logoColor=ff2d20)
 ![Surfshark](https://img.shields.io/badge/Surfshark-000000?style=for-the-badge&logo=surfshark&logoColor=00b4e4)
-![CyberGhost](https://img.shields.io/badge/CyberGhost-000000?style=for-the-badge&logo=cyberghost&logoColor=fff700)
-![Private Internet Access](https://img.shields.io/badge/PIA-000000?style=for-the-badge&logo=privateinternetaccess&logoColor=ff4b3e)

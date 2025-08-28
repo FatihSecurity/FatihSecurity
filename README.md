@@ -4,4 +4,4 @@
 ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7E00FF?style=for-the-badge&logo=tor-browser&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-00FF00?style=for-the-badge&logo=hack-the-box&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6600?style=for-the-badge&logo=tryhackme&logoColor=white)
-
+![VPN](https://img.shields.io/badge/VPN-000000?style=for-the-badge&logo=protonvpn&logoColor=2f9e44)

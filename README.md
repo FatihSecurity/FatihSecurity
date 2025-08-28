@@ -5,7 +5,6 @@
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-00FF00?style=for-the-badge&logo=hack-the-box&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6600?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=green)
 ![ProtonVPN](https://img.shields.io/badge/ProtonVPN-000000?style=for-the-badge&logo=protonvpn&logoColor=2f9e44)
 ![NordVPN](https://img.shields.io/badge/NordVPN-000000?style=for-the-badge&logo=nordvpn&logoColor=00c1d4)
 ![ExpressVPN](https://img.shields.io/badge/ExpressVPN-000000?style=for-the-badge&logo=expressvpn&logoColor=ff2d20)

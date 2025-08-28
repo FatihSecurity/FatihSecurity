@@ -12,7 +12,6 @@
 
 ## Badges
 
-[![Helper](https://github.com/<kullanıcıadın>/<repo>/blob/main/admin_logo.png)](https://github.com/FatihSecurity)
 ![Professional Hacker](https://img.shields.io/badge/Professional_Hacker-008000?style=for-the-badge&logoColor=white)
 ![Hacker](https://img.shields.io/badge/Hacker-32CD32?style=for-the-badge&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-008000?style=for-the-badge&logo=linux&logoColor=white)

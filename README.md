@@ -8,3 +8,6 @@
 ![ProtonVPN](https://img.shields.io/badge/ProtonVPN-000000?style=for-the-badge&logo=protonvpn&logoColor=2f9e44)
 ![NordVPN](https://img.shields.io/badge/NordVPN-000000?style=for-the-badge&logo=nordvpn&logoColor=00c1d4)
 ![ExpressVPN](https://img.shields.io/badge/ExpressVPN-000000?style=for-the-badge&logo=expressvpn&logoColor=ff2d20)
+![Avast](https://img.shields.io/badge/Avast-000000?style=for-the-badge&logo=avast&logoColor=white)
+![Norton](https://img.shields.io/badge/Norton-000000?style=for-the-badge&logo=norton&logoColor=yellow)
+![Kaspersky](https://img.shields.io/badge/Kaspersky-000000?style=for-the-badge&logo=kaspersky&logoColor=00ff00)

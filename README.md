@@ -11,3 +11,4 @@
 ![Avast](https://img.shields.io/badge/Avast-000000?style=for-the-badge&logo=avast&logoColor=white)
 ![Norton](https://img.shields.io/badge/Norton-000000?style=for-the-badge&logo=norton&logoColor=yellow)
 ![Kaspersky](https://img.shields.io/badge/Kaspersky-000000?style=for-the-badge&logo=kaspersky&logoColor=00ff00)
+![Best of Turkey](https://img.shields.io/badge/🇹🇷-Best%20of%20Turkey-red?style=for-the-badge)

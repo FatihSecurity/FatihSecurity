@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange)
-![Tor Browser](https://img.shields.io/badge/Tor_Browser-000000?style=for-the-badge&logo=tor-project&logoColor=white)
+![Dark Web](https://img.shields.io/badge/Dark_Web-000000?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![ProtonVPN](https://img.shields.io/badge/ProtonVPN-000000?style=for-the-badge&logo=protonvpn&logoColor=2f9e44)
 ![NordVPN](https://img.shields.io/badge/NordVPN-000000?style=for-the-badge&logo=nordvpn&logoColor=00c1d4)
